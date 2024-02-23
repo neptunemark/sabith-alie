@@ -3,7 +3,7 @@ const person = {
     profile_logo: "./image/DBI.jpg",
 
     Name: "SABITH ALI",
-    designation: "Filim Maker",
+    designation: "Film Maker",
     des_link_text: "",
     des_link: "",
     contact: "./contact/sabith.vcf",
